@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1405" alt="Screenshot 2023-08-10 at 11 26 49" src="https://github.com/AbdelrahmanHassan888/react-admin-dashboard/assets/139315351/180e4e7f-7224-475b-a71f-0f4f0dae25cd">
+
+
+Building a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 
 ## Available Scripts
 
